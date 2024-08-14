@@ -1,0 +1,20 @@
+# Ignore everything in repository root 
+/*
+
+# Files to not ignore
+!/.gitignore
+
+!/starship.toml
+!/user-dirs.locale
+
+# Folders to not ignore
+!/fastfetch/
+!/hypr/
+!/HyprV/
+!/mako/
+!/nwg-look/
+!/satty/
+!/swaylock/
+!/waybar/
+!/wofi/
+!/kitty/
